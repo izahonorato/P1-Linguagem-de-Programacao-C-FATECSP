@@ -8,7 +8,7 @@ int divisao(int a, int b){
 }
 
 int main(){
-	printf("\n %d", divisao(16,3));
+	printf("\n %d", divisao(16,10));
 	
 	return 0;
 }
